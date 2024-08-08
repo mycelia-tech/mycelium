@@ -1,0 +1,21 @@
+- Data hoarding (dump your data into mycelium, make sense of it later)
+- Insight Mining
+- Data streaming
+- Data Sharing / Subscription
+- Open Source
+- Privacy first
+- Search/indexing
+- Extensions
+- Archives + Diff Archives
+- MongoDB as Storage (shall we even use the official MongoDB hosting for on-prem?)
+- Integrations
+    - Raycast
+    - Telegram
+    - Web App
+    - iOS
+    - Android
+    - Apple Watch
+    - …Create Your Own
+- Mesh Structure
+- Crypto Signatures
+- ActivityPub
